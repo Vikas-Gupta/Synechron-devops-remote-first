@@ -1,5 +1,5 @@
 #!/bin/bash
 cal
-ifconfig
+ipconfig
 
 def -h
