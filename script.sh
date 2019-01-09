@@ -1,5 +1,5 @@
 #!/bin/bash
 cal
-ipconfig
+#ifconfig
 
-def -h
+df -h
