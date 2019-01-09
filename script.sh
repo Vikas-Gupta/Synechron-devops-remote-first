@@ -1,3 +1,3 @@
 #!/bin/bash
 cal
-echo "Master"
+echo "At Master Branch"
